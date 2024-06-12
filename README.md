@@ -1,6 +1,6 @@
 # Retail-sales-analysis-
-Online Retail Dataset 
-Overview 
+Online Retail Dataset :
+ 
 The Online Retail dataset provides insights into the sales activities of an online store spanning from December 1, 2009, to December 9, 2011. This dataset encompasses a wide range of souvenir products, primarily targeting corporate customers.
 
 Objective 
